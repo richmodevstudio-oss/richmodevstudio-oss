@@ -147,8 +147,8 @@ Currently pursuing an **MBA in Software Engineering at USP/Esalq**, while keepin
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=richmodevstudio-oss&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=B3B3B3&icon_color=FFFFFF" alt="GitHub Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richmodevstudio-oss&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=B3B3B3" alt="Top Languages">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=richmodevstudio-oss&theme=github_dark" alt="GitHub Stats">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=richmodevstudio-oss&theme=github_dark" alt="Top Languages">
 </p>
 
 <p align="center">
